@@ -1,0 +1,13 @@
+Naming
+
+    my_files.c
+    MY_CONSTANTS
+    MyTypes
+    my_variables
+    type_my_functions()
+
+String Initilization
+
+    if known and want array of bytes we use unsigned char my_string[size]
+    if string out parameter char *my_result
+
